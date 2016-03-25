@@ -20,6 +20,7 @@ Aside from that, here are the channel rules, which are heavily inspired by `#arc
 * No religious wars. They're a distraction from conversation and are actively detrimental to helping new people understand how to accomplish what they want.
 * IRC is an asynchronous medium, though. What this means is that people might not respond immediately to your questions. This doesn't mean that we don't care about helping, just that we're off doing other things.
 * Arch != Arch derivatives. If you have questions about working with archbang, manjaro, antergos, or others, head to their respective irc channels, fora, or mailing lists. You will find more comprehensive help there.
+* Keep questions and answers in-channel so that other askers and answerers can benefit. There is no need to private message people for help, you will be helped faster in channel.
 
 
 [freenode-rules]: http://freenode.net/policy.shtml
