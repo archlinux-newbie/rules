@@ -14,6 +14,7 @@ Aside from that, here are the channel rules, which are heavily inspired by `#arc
 * Don't start or contribute to any flamewars. Saying `!anops` or `!newbie-ops` will ping the channel ops if something goes wrong.
 * Feel free to ask questions. That's what we're here for, after all.
 * Don't misuse phrik, the channel bot. If you're really curious as to what it can do, then test things out in private messages.
+* Be considerate with your word choice. Some words that may seem neutral to you can be offensive to others. We are building a supportive and inclusive community and words like "gay", "retard" and "gyp" do not help to accomplish this.
 * Bigotry, misogyny, antisemitism, racism, ableism, classism, homophobia, transphobia, cissexism, fatphobia, sizism, etc. are unacceptable and will face strict moderation.
 * The [archlinux wiki][awiki] is a wonderful source of information, no matter what operating system you're running. It's not perfect by any means, but it can usually help answer your question if you know what you're looking for.
 * You don't need to ask things like "are people alive?" or "may I ask for help?" before putting a question out there. Just ask.
