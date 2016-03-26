@@ -18,11 +18,10 @@ Aside from that, here are the channel rules, which are heavily inspired by `#arc
 * Bigotry, misogyny, antisemitism, racism, ableism, classism, homophobia, transphobia, cissexism, fatphobia, sizism, etc. are unacceptable and will face strict moderation.
 * The [archlinux wiki][awiki] is a wonderful source of information, no matter what operating system you're running. It's not perfect by any means, but it can usually help answer your question if you know what you're looking for.
 * You don't need to ask things like "are people alive?" or "may I ask for help?" before putting a question out there. Just ask.
+* Keep questions and answers in-channel so that other askers and answerers can benefit. There is no need to private message people for help, you will be helped faster in channel.
 * No religious wars. They're a distraction from conversation and are actively detrimental to helping new people understand how to accomplish what they want.
 * IRC is an asynchronous medium, though. What this means is that people might not respond immediately to your questions. This doesn't mean that we don't care about helping, just that we're off doing other things.
 * Arch != Arch derivatives. If you have questions about working with archbang, manjaro, antergos, or others, head to their respective irc channels, fora, or mailing lists. You will find more comprehensive help there.
-* Keep questions and answers in-channel so that other askers and answerers can benefit. There is no need to private message people for help, you will be helped faster in channel.
-
 
 [freenode-rules]: http://freenode.net/policy.shtml
 [questions]: http://www.catb.org/~esr/faqs/smart-questions.html 
