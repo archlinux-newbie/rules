@@ -8,7 +8,7 @@ This extract from the [freenode philosophy][] reflects the intent behind this ch
 
 Aside from that, here are the channel rules, which are heavily inspired by `#archlinux`, `#archlinux-women`, and `##feminist` here on freenode.
 
-* Don't be an ass.
+* Don't be an ass. [Be cordial] instead.
 * Participate in good faith. You lose the face you’re trying to save when you can’t admit when you’re wrong.
 * Remember you’re talking to **actual people** — think to yourself “is this something I could see myself saying if I were face to face with this person?” 
 * Don't start or contribute to any flamewars. Saying `!anops` or `!newbie-ops` will ping the channel ops if something goes wrong.
@@ -27,3 +27,4 @@ Aside from that, here are the channel rules, which are heavily inspired by `#arc
 [questions]: http://www.catb.org/~esr/faqs/smart-questions.html 
 [freenode philosophy]: http://freenode.net/channel_guidelines.shtml
 [awiki]: https://wiki.archlinux.org/
+[Be cordial]: http://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way
