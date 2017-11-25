@@ -11,7 +11,7 @@ The channel is governed by the Arch Linux [Code of Conduct][] with the following
 * Keep questions and answers in-channel so that other askers and answerers can benefit. There is no need to private message people for help, you will be helped faster in channel.
 * IRC is an asynchronous medium. What this means is that people might not respond immediately to your questions. This doesn't mean that we don't care about helping, just that we're off doing other things. You may need to wait half an hour or more for someone to respond. So please be patient.
 
-Be open minded, patient, and respectful, whether you are asking a question or giving help. If there is an issue which requires the immediate attention of a channel op, use the bot commands !anops or !newbie-ops to ping them.
+Be open minded, patient, and respectful, whether you are asking a question or giving help. If there is an issue which requires the immediate attention of a channel op, use the bot command !ops which can take an optional message for describing the issue. The bot will ping all the ops and include any message given.
 
 This extract from the freenode's [Channel Guidelines][] reflects the intent behind this channel perfectly:
 
